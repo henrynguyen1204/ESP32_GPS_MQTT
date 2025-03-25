@@ -15,7 +15,9 @@ This project is developed using **ESP-IDF** to integrate **GPS**, **MQTT communi
 - **SIM Module SIMCOM A7680C**
 - **GPS Module NEO-7M**
 - **SSD1306 OLED Display**
+
 ![a5f551d2-b508-4557-a444-56a5286aceac](https://github.com/user-attachments/assets/5786d198-5a96-4e16-b3d5-f72ae16eea5b)
+
 ![f3c2d993-286e-47ab-a0ca-d6d997ee8b1a](https://github.com/user-attachments/assets/6623039f-5f14-4c63-a71f-f22a4ca203b6)
 
 
