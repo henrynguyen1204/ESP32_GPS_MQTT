@@ -1,0 +1,25 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\sinhh\\esp\\v5.3.2\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\sinhh\\.espressif",
+    "idf.pythonInstallPath": "C:\\Users\\sinhh\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32s3"
+    },
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32s3.cfg"
+    ],
+    "idf.flashType": "UART",
+    "idf.portWin": "COM5",
+    "files.associations": {
+        "stdio.h": "c",
+        "string.h": "c",
+        "ssd1306.h": "c",
+        "esp_lcd_panel_vendor.h": "c",
+        "esp_lcd_panel_ssd1306.h": "c",
+        "esp_lcd_io_i2c.h": "c",
+        "uart.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
