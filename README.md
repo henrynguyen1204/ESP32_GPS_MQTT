@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project is developed using **ESP-IDF** to integrate **GPS**, **MQTT communication**, and **SSD1306 OLED display** with an ESP32. The system receives GPS data, processes it, and publishes the information via MQTT while displaying relevant data on an OLED screen.
-![diagram](https://github.com/user-attachments/assets/7d1e23f5-38da-4d85-9b4f-187925299578)
+![diagram](https://github.com/user-attachments/assets/7d1e23f5-38da-4d85-9b4f-187925299578){: width="50%"}
 
 ## 🚀 Features
 - **GPS Module (UART)**: Reads and parses NMEA data.
